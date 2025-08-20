@@ -1,4 +1,4 @@
-Tool for structural analysis of truss frames based on FEM code
+Tool for structural analysis of truss frames based on FEM code (Vn3DPro)
 <img width="1920" height="1018" alt="image" src="https://github.com/user-attachments/assets/8ca30c99-1954-4ee0-8bbc-2a22991a0840" />
 Main interactive interface of FAST
 
